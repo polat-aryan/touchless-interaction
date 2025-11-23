@@ -32,7 +32,5 @@ This project is a **demo for hand tracking and touchless interfaces**, not just 
 - **NumPy** – vector & distance math  
 - **Random / Time** – object spawning and timing logic  
 
----
 
-## 📁 Project Structure
 
